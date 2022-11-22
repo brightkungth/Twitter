@@ -1,6 +1,7 @@
 # twitter by Jirapat Pimkaew 1620901601
 
 A new Flutter project by Jirapat Pimkaew 1620901601.
+โปรเจค Twitter โดยการใช้ Flutter โดย นายจิรพัส พิมพ์แก้ว 1620901601
 
 ## Getting Started
 
